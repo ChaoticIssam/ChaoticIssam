@@ -14,12 +14,25 @@ I’m a passionate developer from the 1337 (42) School with a love for building 
 - 🛠 **Languages & Tools:**  
   Python (Django), JavaScript, TypeScript, React Native, Three.js, C, C++, UNIX, Docker, HTML, CSS, TailwindCSS, Figma
 
-- 🎮 **Final Project:**  
-  **3D Web Game**  
-  As my graduation project, I built a real-time 3D web game using [Three.js](https://threejs.org/), WebSocket, and Django Python. This project combines my backend and creative coding skills to deliver immersive multiplayer experiences right in the browser.
-
 - 🔗 **Connect with me:**  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/issamzitouni/)
+
+---
+
+### 🧩 Projects
+
+- **minishell:** Custom Unix shell built in C, replicating basic shell features and job control. *(42 project)*
+- **cub3d:** Simple 3D game engine and raycaster, created in C, for learning graphics and algorithms. *(42 project)*
+- **Webserv:** HTTP server implemented in C++, supporting multiple clients and standard web protocols. *(42 project)*
+- **Inception:** Infrastructure-as-code and container orchestration using Docker Compose. *(42 project)*
+- **3D Web Game:** Real-time multiplayer 3D browser game, leveraging Three.js, WebSocket, and Django (Python). *(42 project)*
+- **[auTask](https://github.com/ChaoticIssam/auTask):**  
+  Modern, minimalist task management web app built with React and TypeScript.  
+  - 🔐 Authentication (email/password & Google OAuth)  
+  - ✅ Task creation, completion tracking, timestamps  
+  - 🌦️ Live weather and location info via public APIs  
+  - 🎨 Original UI/UX designed in Figma  
+  - Tech: React, TypeScript, Firebase/Auth0, Tailwind CSS, OpenWeatherMap, Geolocation API  
 
 ---
 
