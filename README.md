@@ -1,6 +1,6 @@
 <!-- ChaoticIssam's GitHub Profile README -->
 
-<h1 align="center">Hi there 👋, I'm Issam Zitouni (ChaoticIssam)</h1>
+<h1 align="center">Hi there 👋, I'm Issam Zitouni</h1>
 <p align="center">
   Creative Developer | 1337 (42) School Alumni | 3D Web Enthusiast
 </p>
